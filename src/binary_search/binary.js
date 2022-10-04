@@ -2,6 +2,7 @@ export function binary_search(number, arr) {
     const length = arr.length;
     let mid = Math.floor( length / 2 );
     let right = length - 1, left = 0;
+    
     for (var i =0; i<length; i++) {
      if ( arr[mid] == number ) {
         return mid;
