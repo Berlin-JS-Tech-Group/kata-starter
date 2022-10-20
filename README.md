@@ -31,7 +31,7 @@ If you are planning to share your solution with already existing kata repo, foll
 
 1. Fork this repo
 
-2. Add your solution and test files to `/src` folder with the following name format: "solution\_<i>username</i>.js" and "solution\_<i>username</i>.test.js".
+2. Add your solution and test files to `/src` folder with the following name format: "solution.<i>username</i>.js" and "solution.<i>username</i>.test.js".
 
 3. Create a pull request with short explanation and results of tests run.
 
