@@ -5,6 +5,7 @@
   "description": "🥋 Kata Starter - the easiest and fastest way to start solving any kata. Tests included.",
   "homepage": "https://github.com/Berlin-JS-Tech-Group/kata-starter",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
